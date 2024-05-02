@@ -41,7 +41,7 @@ During the development of this dashboard, we have used many existing resources f
 
 Let us know your thoughts below. And good luck with development!
 
-## Table of Contents
+### Table of Contents
 
 - [Versions](#versions)
 - [Demo](#demo)
